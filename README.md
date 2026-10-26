@@ -6,8 +6,16 @@ Coleção de wallpapers (desenhos e paisagens) em WebP, com nome único, mais o 
 
 <!-- galeria:inicio -->
 
-225 wallpapers, mais recentes primeiro. Clica na miniatura pra abrir a imagem inteira.
+233 wallpapers, mais recentes primeiro. Clica na miniatura pra abrir a imagem inteira.
 
+<a href="imagens/c365ae4f7c6e.webp"><img src="previas/c365ae4f7c6e.webp" width="240" alt="c365ae4f7c6e"></a>
+<a href="imagens/a7635e4f7f68.webp"><img src="previas/a7635e4f7f68.webp" width="240" alt="a7635e4f7f68"></a>
+<a href="imagens/ff3514fc6af4.webp"><img src="previas/ff3514fc6af4.webp" width="240" alt="ff3514fc6af4"></a>
+<a href="imagens/729e5de0a9d4.webp"><img src="previas/729e5de0a9d4.webp" width="240" alt="729e5de0a9d4"></a>
+<a href="imagens/baee68ffb21b.webp"><img src="previas/baee68ffb21b.webp" width="240" alt="baee68ffb21b"></a>
+<a href="imagens/dc783f973cc5.webp"><img src="previas/dc783f973cc5.webp" width="240" alt="dc783f973cc5"></a>
+<a href="imagens/2c0984ce049e.webp"><img src="previas/2c0984ce049e.webp" width="240" alt="2c0984ce049e"></a>
+<a href="imagens/dfe8581efc9e.webp"><img src="previas/dfe8581efc9e.webp" width="240" alt="dfe8581efc9e"></a>
 <a href="imagens/f1671244fcd2.webp"><img src="previas/f1671244fcd2.webp" width="240" alt="f1671244fcd2"></a>
 <a href="imagens/578c5c51f36f.webp"><img src="previas/578c5c51f36f.webp" width="240" alt="578c5c51f36f"></a>
 <a href="imagens/547d6c355563.webp"><img src="previas/547d6c355563.webp" width="240" alt="547d6c355563"></a>
