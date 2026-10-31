@@ -273,6 +273,11 @@ Uma etapa só, do original direto pro WebP (sem recomprimir em cima de outra com
 3. Remove metadados (GPS, câmera, data).
 4. Codifica em WebP qualidade 90. Se o original for PNG (desenho, arte chapada), testa também WebP sem perda e fica com o menor.
 
+Exceções, pra não perder qualidade nem crescer o arquivo à toa:
+
+- **WebP que já chega pronto** (até 3840 px, sem rotação pendente e sem metadados) fica exatamente como veio, só renomeado.
+- **JPG com qualidade menor que 90** é convertido na qualidade dele. Subir pra 90 só aumentaria o arquivo, sem recuperar o que já foi perdido.
+
 A miniatura da galeria (`previas/`) tem 480×270, recortada no centro.
 
 Aceita JPG, PNG e WebP na entrada. GIF e outros vão pra `falhou/`.

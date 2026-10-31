@@ -52,11 +52,28 @@ falhou() {
 # Pra PNG (desenho, arte chapada) testa também sem perda e fica com o menor.
 converter() {
   local origem="$1" destino="$2" formato="$3"
-  local redim=()
+  local redim=() q="$QUALIDADE" info w h ori qorig
   (( MAX_LADO > 0 )) && redim=(-resize "${MAX_LADO}x${MAX_LADO}>")
 
+  info="$(identify -format '%w %h %[orientation] %Q' "${origem}[0]")" || return 1
+  read -r w h ori qorig <<< "$info"
+
+  # WebP que já chega pronto (tamanho ok, sem rotação pendente, sem EXIF/XMP) fica como está:
+  # recomprimir só perderia qualidade e, muitas vezes, deixaria o arquivo maior.
+  if [[ "$formato" == "WEBP" ]] && { (( MAX_LADO == 0 )) || (( w <= MAX_LADO && h <= MAX_LADO )); } \
+     && [[ "$ori" == "Undefined" || "$ori" == "TopLeft" ]] \
+     && ! identify -verbose "${origem}[0]" 2>/dev/null | grep -qE 'Profile-(exif|xmp|iptc)'; then
+    cp "$origem" "$destino"
+    return 0
+  fi
+
+  # JPG que veio com qualidade menor que a nossa: usa a dele (mais qualidade só cresceria o arquivo)
+  if [[ "$formato" == "JPEG" && "$qorig" =~ ^[0-9]+$ ]] && (( qorig > 0 && qorig < q )); then
+    q="$qorig"
+  fi
+
   magick "${origem}[0]" -auto-orient "${redim[@]}" -strip \
-    -quality "$QUALIDADE" -define webp:method=6 "$destino" || return 1
+    -quality "$q" -define webp:method=6 "$destino" || return 1
 
   if [[ "$formato" == "PNG" ]]; then
     local sem_perda="${destino%.webp}.ll.webp"
