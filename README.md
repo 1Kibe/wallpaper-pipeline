@@ -6,8 +6,9 @@ Coleção de wallpapers (desenhos e paisagens) em WebP, com nome único, mais o 
 
 <!-- galeria:inicio -->
 
-264 wallpapers, mais recentes primeiro. Clica na miniatura pra abrir a imagem inteira.
+265 wallpapers, mais recentes primeiro. Clica na miniatura pra abrir a imagem inteira.
 
+<a href="imagens/16794d4fa28d.webp"><img src="previas/16794d4fa28d.webp" width="240" alt="16794d4fa28d"></a>
 <a href="imagens/af5013a56e8b.webp"><img src="previas/af5013a56e8b.webp" width="240" alt="af5013a56e8b"></a>
 <a href="imagens/67eeff2098b3.webp"><img src="previas/67eeff2098b3.webp" width="240" alt="67eeff2098b3"></a>
 <a href="imagens/58c410030d55.webp"><img src="previas/58c410030d55.webp" width="240" alt="58c410030d55"></a>
