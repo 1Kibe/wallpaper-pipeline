@@ -6,8 +6,34 @@ Coleção de wallpapers (desenhos e paisagens) em WebP, com nome único, mais o 
 
 <!-- galeria:inicio -->
 
-238 wallpapers, mais recentes primeiro. Clica na miniatura pra abrir a imagem inteira.
+264 wallpapers, mais recentes primeiro. Clica na miniatura pra abrir a imagem inteira.
 
+<a href="imagens/af5013a56e8b.webp"><img src="previas/af5013a56e8b.webp" width="240" alt="af5013a56e8b"></a>
+<a href="imagens/67eeff2098b3.webp"><img src="previas/67eeff2098b3.webp" width="240" alt="67eeff2098b3"></a>
+<a href="imagens/58c410030d55.webp"><img src="previas/58c410030d55.webp" width="240" alt="58c410030d55"></a>
+<a href="imagens/db4e578669e8.webp"><img src="previas/db4e578669e8.webp" width="240" alt="db4e578669e8"></a>
+<a href="imagens/23d46d442161.webp"><img src="previas/23d46d442161.webp" width="240" alt="23d46d442161"></a>
+<a href="imagens/3a9755b39d68.webp"><img src="previas/3a9755b39d68.webp" width="240" alt="3a9755b39d68"></a>
+<a href="imagens/17851bc33253.webp"><img src="previas/17851bc33253.webp" width="240" alt="17851bc33253"></a>
+<a href="imagens/acc2c69483ec.webp"><img src="previas/acc2c69483ec.webp" width="240" alt="acc2c69483ec"></a>
+<a href="imagens/97c5a1b653f7.webp"><img src="previas/97c5a1b653f7.webp" width="240" alt="97c5a1b653f7"></a>
+<a href="imagens/6678ace92b71.webp"><img src="previas/6678ace92b71.webp" width="240" alt="6678ace92b71"></a>
+<a href="imagens/7cd9db2256ab.webp"><img src="previas/7cd9db2256ab.webp" width="240" alt="7cd9db2256ab"></a>
+<a href="imagens/818d5b4f92e6.webp"><img src="previas/818d5b4f92e6.webp" width="240" alt="818d5b4f92e6"></a>
+<a href="imagens/abc98dea217a.webp"><img src="previas/abc98dea217a.webp" width="240" alt="abc98dea217a"></a>
+<a href="imagens/87fae125a781.webp"><img src="previas/87fae125a781.webp" width="240" alt="87fae125a781"></a>
+<a href="imagens/37e764d89224.webp"><img src="previas/37e764d89224.webp" width="240" alt="37e764d89224"></a>
+<a href="imagens/753402903e04.webp"><img src="previas/753402903e04.webp" width="240" alt="753402903e04"></a>
+<a href="imagens/079376148b7b.webp"><img src="previas/079376148b7b.webp" width="240" alt="079376148b7b"></a>
+<a href="imagens/9ceee228a60b.webp"><img src="previas/9ceee228a60b.webp" width="240" alt="9ceee228a60b"></a>
+<a href="imagens/421904eef27f.webp"><img src="previas/421904eef27f.webp" width="240" alt="421904eef27f"></a>
+<a href="imagens/3c6f7034f9a0.webp"><img src="previas/3c6f7034f9a0.webp" width="240" alt="3c6f7034f9a0"></a>
+<a href="imagens/0a3ee3c2798f.webp"><img src="previas/0a3ee3c2798f.webp" width="240" alt="0a3ee3c2798f"></a>
+<a href="imagens/2461ad0e20a2.webp"><img src="previas/2461ad0e20a2.webp" width="240" alt="2461ad0e20a2"></a>
+<a href="imagens/636e622d2373.webp"><img src="previas/636e622d2373.webp" width="240" alt="636e622d2373"></a>
+<a href="imagens/aa69f62e7c63.webp"><img src="previas/aa69f62e7c63.webp" width="240" alt="aa69f62e7c63"></a>
+<a href="imagens/5999b73c6ce3.webp"><img src="previas/5999b73c6ce3.webp" width="240" alt="5999b73c6ce3"></a>
+<a href="imagens/136336b4d9a5.webp"><img src="previas/136336b4d9a5.webp" width="240" alt="136336b4d9a5"></a>
 <a href="imagens/835d54b5942f.webp"><img src="previas/835d54b5942f.webp" width="240" alt="835d54b5942f"></a>
 <a href="imagens/38d53578384f.webp"><img src="previas/38d53578384f.webp" width="240" alt="38d53578384f"></a>
 <a href="imagens/34c51d76bd90.webp"><img src="previas/34c51d76bd90.webp" width="240" alt="34c51d76bd90"></a>
